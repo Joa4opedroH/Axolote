@@ -1,0 +1,14 @@
+# Manipulação de imagens e metadados
+Pillow
+piexif
+
+# Processamento de visão computacional
+opencv-python
+numpy
+
+# Comunicação com o Drone (MAVLink)
+dronekit
+pymavlink==2.4.8
+
+# Utilitários (já inclusos no Python, mas listados por clareza se necessário em ambientes específicos)
+# (fractions, decimal, logging, argparse são built-ins)
